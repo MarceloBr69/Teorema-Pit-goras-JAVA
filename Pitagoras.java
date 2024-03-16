@@ -13,9 +13,6 @@ public class Pitagoras {
 
         System.out.println("La longitud de la hipotenusa es:" + c);
     }
-    
-
-    
 }
 
 
